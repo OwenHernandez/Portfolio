@@ -1,0 +1,21 @@
+[
+    {
+        "degree": "Técnico Superior en Desarrollo de Aplicaciones Web(DAW) - IES Telesforo Bravo 2024-2025",
+        "thingsDone": [
+            "Desarrollo de APIs REST con Python (Django)",
+            "Diseño y modelado de bases de datos relacionales (SQL)",
+            "Implementación de lógica de negocio y validaciones",
+            "Uso de Git y trabajo con repositorios colaborativos",
+            "Introducción a buenas prácticas de backend"
+        ]
+    },
+    {
+        "degree": "Técnico Superior en Desarrollo de Aplicaciones Multiplataforma(DAM) - IES Telesforo Bravo 2022-2024",
+        "thingsDone": [
+            "Desarrollo de APIs REST y Programación orientada a objetos con Java (Spring Boot)",
+            "Acceso a datos, y consultas SQL y NoSQL",
+            "Desarrollo de aplicaciones multiplataforma (Android y React Native)",
+            "Resolución de problemas y depuración"
+        ]
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "title": "BaboonFeed",
+        "description": "Red social web con backend en Django y API REST.",
+        "techs": ["Django", "Python", "PostgreSQL", "Vue"],
+        "github": "https://github.com/Angel-L-G/BaboonFeed"
+    },
+    {
+        "title": "MasterPCBuilder",
+        "description": "Aplicación con lógica de negocio para configuraciones de PC.",
+        "techs": ["Java", "Spring Boot", "React"],
+        "github": "https://github.com/OwenHernandez/Master-PCBuilder"
+    }
+]
